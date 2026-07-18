@@ -1,0 +1,407 @@
+============================================================
+TOEIC PDF EXTRACTION TOOL (with OCR fallback)
+============================================================
+
+[1/35] Processing: TOEIC Preparation - Volume 1
+  File: d:\phat\TOEIC\Support\book\Toeic Preparation volume 1.pdf
+  Size: 59.9 MB
+  ... processed 25/40 pages (OCR so far: 25)
+  Total OCR'd pages: 40
+  OK Extracted 34,519 characters
+
+[2/35] Processing: TOEIC Preparation - Volume 2
+  File: d:\phat\TOEIC\Support\book\Toeic preparation 2.pdf
+  Size: 62.6 MB
+  ... processed 25/207 pages (OCR so far: 0)
+  ... processed 50/207 pages (OCR so far: 0)
+  ... processed 75/207 pages (OCR so far: 0)
+  ... processed 100/207 pages (OCR so far: 0)
+  ... processed 125/207 pages (OCR so far: 0)
+  ... processed 150/207 pages (OCR so far: 0)
+  ... processed 175/207 pages (OCR so far: 0)
+  ... processed 200/207 pages (OCR so far: 0)
+  Total OCR'd pages: 0
+  OK Extracted 12,517 characters
+
+[3/35] Processing: ETS 2018 - Listening
+  File: d:\phat\TOEIC\Support\ETS\TỔNG HỢP ETS\ETS 2018\ETS TOEIC 2018 - Listening.pdf
+  Size: 94.5 MB
+  ... processed 25/215 pages (OCR so far: 0)
+  ... processed 50/215 pages (OCR so far: 0)
+  ... processed 75/215 pages (OCR so far: 0)
+  ... processed 100/215 pages (OCR so far: 0)
+  ... processed 125/215 pages (OCR so far: 0)
+  ... processed 150/215 pages (OCR so far: 0)
+  ... processed 175/215 pages (OCR so far: 0)
+  ... processed 200/215 pages (OCR so far: 0)
+  Total OCR'd pages: 0
+  OK Extracted 9,995 characters
+
+[4/35] Processing: ETS 2018 - Reading
+  File: d:\phat\TOEIC\Support\ETS\TỔNG HỢP ETS\ETS 2018\ETS TOEIC 2018 - Reading.pdf
+  Size: 55.0 MB
+  ... processed 25/147 pages (OCR so far: 0)
+  ... processed 50/147 pages (OCR so far: 0)
+  ... processed 75/147 pages (OCR so far: 0)
+  ... processed 100/147 pages (OCR so far: 0)
+  ... processed 125/147 pages (OCR so far: 0)
+  Total OCR'd pages: 0
+  OK Extracted 6,799 characters
+
+[5/35] Processing: ETS 2019 - Listening (1000 LC)
+  File: d:\phat\TOEIC\Support\ETS\TỔNG HỢP ETS\ETS 2019\Sách ETS 1000 LC (2019).pdf
+  Size: 42.1 MB
+  ... processed 25/140 pages (OCR so far: 1)
+  ... processed 50/140 pages (OCR so far: 3)
+  ... processed 75/140 pages (OCR so far: 5)
+  ... processed 100/140 pages (OCR so far: 7)
+  ... processed 125/140 pages (OCR so far: 8)
+  Total OCR'd pages: 9
+  OK Extracted 145,394 characters
+
+[6/35] Processing: ETS 2019 - Reading (1000 RC)
+  File: d:\phat\TOEIC\Support\ETS\TỔNG HỢP ETS\ETS 2019\Sách ETS 1000 RC (2019).pdf
+  Size: 93.9 MB
+  ... processed 25/307 pages (OCR so far: 0)
+  ... processed 50/307 pages (OCR so far: 1)
+  ... processed 75/307 pages (OCR so far: 1)
+  ... processed 100/307 pages (OCR so far: 1)
+  ... processed 125/307 pages (OCR so far: 2)
+  ... processed 150/307 pages (OCR so far: 2)
+  ... processed 175/307 pages (OCR so far: 3)
+  ... processed 200/307 pages (OCR so far: 4)
+  ... processed 225/307 pages (OCR so far: 5)
+  ... processed 250/307 pages (OCR so far: 6)
+  ... processed 275/307 pages (OCR so far: 6)
+  ... processed 300/307 pages (OCR so far: 7)
+  Total OCR'd pages: 7
+  OK Extracted 430,612 characters
+
+[7/35] Processing: ETS 2019 - Key LC
+  File: d:\phat\TOEIC\Support\ETS\TỔNG HỢP ETS\ETS 2019\Key LC .pdf
+  Size: 112.5 MB
+  ... processed 25/289 pages (OCR so far: 0)
+  ... processed 50/289 pages (OCR so far: 0)
+  ... processed 75/289 pages (OCR so far: 0)
+  ... processed 100/289 pages (OCR so far: 0)
+  ... processed 125/289 pages (OCR so far: 0)
+  ... processed 150/289 pages (OCR so far: 0)
+  ... processed 175/289 pages (OCR so far: 0)
+  ... processed 200/289 pages (OCR so far: 0)
+  ... processed 225/289 pages (OCR so far: 0)
+  ... processed 250/289 pages (OCR so far: 0)
+  ... processed 275/289 pages (OCR so far: 0)
+  Total OCR'd pages: 1
+  OK Extracted 941,407 characters
+
+[8/35] Processing: ETS 2020 - Listening
+  File: d:\phat\TOEIC\Support\ETS\TỔNG HỢP ETS\ETS 2020\Ets 2020 - sách LC.pdf
+  Size: 108.7 MB
+  ... processed 25/140 pages (OCR so far: 25)
+  ... processed 50/140 pages (OCR so far: 50)
+  ... processed 75/140 pages (OCR so far: 75)
+  ... processed 100/140 pages (OCR so far: 100)
+  ... processed 125/140 pages (OCR so far: 125)
+  Total OCR'd pages: 140
+  OK Extracted 148,135 characters
+
+[9/35] Processing: ETS 2020 - Key & Transcript LC
+  File: d:\phat\TOEIC\Support\ETS\TỔNG HỢP ETS\ETS 2020\Key _ Transcript LC.pdf
+  Size: 203.7 MB
+  ... processed 25/286 pages (OCR so far: 2)
+  ... processed 50/286 pages (OCR so far: 2)
+  ... processed 75/286 pages (OCR so far: 2)
+  ... processed 100/286 pages (OCR so far: 2)
+  ... processed 125/286 pages (OCR so far: 2)
+  ... processed 150/286 pages (OCR so far: 2)
+  ... processed 175/286 pages (OCR so far: 2)
+  ... processed 200/286 pages (OCR so far: 2)
+  ... processed 225/286 pages (OCR so far: 2)
+  ... processed 250/286 pages (OCR so far: 2)
+  ... processed 275/286 pages (OCR so far: 2)
+  Total OCR'd pages: 2
+  OK Extracted 902,547 characters
+
+[10/35] Processing: ETS 2021 - Listening
+  File: d:\phat\TOEIC\Support\ETS\TỔNG HỢP ETS\ETS 2021\LC ETS summer 2021.pdf
+  Size: 58.3 MB
+  ... processed 25/68 pages (OCR so far: 25)
+  ... processed 50/68 pages (OCR so far: 50)
+  Total OCR'd pages: 68
+  OK Extracted 79,776 characters
+
+[11/35] Processing: ETS 2021 - Reading
+  File: d:\phat\TOEIC\Support\ETS\TỔNG HỢP ETS\ETS 2021\RC ETS summer 2021.pdf
+  Size: 86.6 MB
+  ... processed 25/148 pages (OCR so far: 25)
+  ... processed 50/148 pages (OCR so far: 50)
+  ... processed 75/148 pages (OCR so far: 75)
+  ... processed 100/148 pages (OCR so far: 100)
+  ... processed 125/148 pages (OCR so far: 125)
+  Total OCR'd pages: 148
+  OK Extracted 216,739 characters
+
+[12/35] Processing: ETS 2021 - LC Script
+  File: d:\phat\TOEIC\Support\ETS\TỔNG HỢP ETS\ETS 2021\LC-scipt.pdf
+  Size: 18.6 MB
+  ... processed 25/146 pages (OCR so far: 25)
+  ... processed 50/146 pages (OCR so far: 50)
+  ... processed 75/146 pages (OCR so far: 75)
+  ... processed 100/146 pages (OCR so far: 100)
+  ... processed 125/146 pages (OCR so far: 125)
+  Total OCR'd pages: 146
+  OK Extracted 384,668 characters
+
+[13/35] Processing: ETS 2021 - RC Script
+  File: d:\phat\TOEIC\Support\ETS\TỔNG HỢP ETS\ETS 2021\RC-scipt.pdf
+  Size: 12.8 MB
+  ... processed 25/102 pages (OCR so far: 25)
+  ... processed 50/102 pages (OCR so far: 50)
+  ... processed 75/102 pages (OCR so far: 75)
+  ... processed 100/102 pages (OCR so far: 100)
+  Total OCR'd pages: 102
+  OK Extracted 275,878 characters
+
+[14/35] Processing: ETS 2022 - Reading Full
+  File: d:\phat\TOEIC\Support\ETS\TỔNG HỢP ETS\ETS 2022\ets 2022 - RC full.pdf
+  Size: 208.4 MB
+  ... processed 25/292 pages (OCR so far: 24)
+  ... processed 50/292 pages (OCR so far: 49)
+  ... processed 75/292 pages (OCR so far: 74)
+  ... processed 100/292 pages (OCR so far: 99)
+  ... processed 125/292 pages (OCR so far: 124)
+  ... processed 150/292 pages (OCR so far: 149)
+  ... processed 175/292 pages (OCR so far: 174)
+  ... processed 200/292 pages (OCR so far: 199)
+  ... processed 225/292 pages (OCR so far: 224)
+  ... processed 250/292 pages (OCR so far: 249)
+  ... processed 275/292 pages (OCR so far: 274)
+  Total OCR'd pages: 291
+  OK Extracted 411,754 characters
+
+[15/35] Processing: ETS 2023 - Listening (Full)
+  File: d:\phat\TOEIC\Support\ETS\TỔNG HỢP ETS\ETS 2023\ETS 2023 LC.pdf
+  Size: 44.3 MB
+  ... processed 25/162 pages (OCR so far: 25)
+  ... processed 50/162 pages (OCR so far: 50)
+  ... processed 75/162 pages (OCR so far: 75)
+  ... processed 100/162 pages (OCR so far: 100)
+  ... processed 125/162 pages (OCR so far: 125)
+  ... processed 150/162 pages (OCR so far: 150)
+  Total OCR'd pages: 162
+  OK Extracted 176,290 characters
+
+[16/35] Processing: ETS 2023 - Reading (Full)
+  File: d:\phat\TOEIC\Support\ETS\TỔNG HỢP ETS\ETS 2023\ETS 2023 RC.pdf
+  Size: 25.9 MB
+  ... processed 25/329 pages (OCR so far: 25)
+  ... processed 50/329 pages (OCR so far: 50)
+  ... processed 75/329 pages (OCR so far: 75)
+  ... processed 100/329 pages (OCR so far: 100)
+  ... processed 125/329 pages (OCR so far: 125)
+  ... processed 150/329 pages (OCR so far: 150)
+  ... processed 175/329 pages (OCR so far: 175)
+  ... processed 200/329 pages (OCR so far: 200)
+  ... processed 225/329 pages (OCR so far: 225)
+  ... processed 250/329 pages (OCR so far: 250)
+  ... processed 275/329 pages (OCR so far: 275)
+  ... processed 300/329 pages (OCR so far: 300)
+  ... processed 325/329 pages (OCR so far: 325)
+  Total OCR'd pages: 329
+  OK Extracted 463,778 characters
+
+[17/35] Processing: ETS 2023 - Transcript LC (Full)
+  File: d:\phat\TOEIC\Support\ETS\TỔNG HỢP ETS\ETS 2023\ETS 2023 Transcript LC.pdf
+  Size: 29.9 MB
+  ... processed 25/288 pages (OCR so far: 25)
+  ... processed 50/288 pages (OCR so far: 50)
+  ... processed 75/288 pages (OCR so far: 75)
+  ... processed 100/288 pages (OCR so far: 100)
+  ... processed 125/288 pages (OCR so far: 125)
+  ... processed 150/288 pages (OCR so far: 150)
+  ... processed 175/288 pages (OCR so far: 175)
+  ... processed 200/288 pages (OCR so far: 200)
+  ... processed 225/288 pages (OCR so far: 225)
+  ... processed 250/288 pages (OCR so far: 250)
+  ... processed 275/288 pages (OCR so far: 275)
+  Total OCR'd pages: 288
+  OK Extracted 844,212 characters
+
+[18/35] Processing: ETS 2023 - Test 1
+  File: d:\phat\TOEIC\Support\ETS\TỔNG HỢP ETS\ETS 2023\TEST 1\ETS 2023 Test 1.pdf
+  Size: 19.7 MB
+  ... processed 25/43 pages (OCR so far: 24)
+  Total OCR'd pages: 42
+  OK Extracted 57,354 characters
+
+[19/35] Processing: ETS 2023 - Test 1 Transcript
+  File: d:\phat\TOEIC\Support\ETS\TỔNG HỢP ETS\ETS 2023\TEST 1\Transcript Test 1.pdf
+  Size: 7.1 MB
+  ... processed 25/29 pages (OCR so far: 25)
+  Total OCR'd pages: 29
+  OK Extracted 84,340 characters
+
+[20/35] Processing: ETS 2023 - Test 2
+  File: d:\phat\TOEIC\Support\ETS\TỔNG HỢP ETS\ETS 2023\TEST 2\Test 02 ETS 2023 Reading & Listening.pdf
+  Size: 20.7 MB
+  ... processed 25/40 pages (OCR so far: 0)
+  Total OCR'd pages: 0
+  OK Extracted 6,109 characters
+
+[21/35] Processing: ETS 2023 - Test 2 Transcript
+  File: d:\phat\TOEIC\Support\ETS\TỔNG HỢP ETS\ETS 2023\TEST 2\Test 2 transcript.pdf
+  Size: 17.0 MB
+  ... processed 25/28 pages (OCR so far: 25)
+  Total OCR'd pages: 28
+  OK Extracted 58,799 characters
+
+[22/35] Processing: ETS 2023 - Test 3
+  File: d:\phat\TOEIC\Support\ETS\TỔNG HỢP ETS\ETS 2023\TEST 3\TEST 3.pdf
+  Size: 5.8 MB
+  ... processed 25/41 pages (OCR so far: 25)
+  Total OCR'd pages: 41
+  OK Extracted 58,093 characters
+
+[23/35] Processing: ETS 2023 - Test 4
+  File: d:\phat\TOEIC\Support\ETS\TỔNG HỢP ETS\ETS 2023\TEST 4\TEST 4.pdf
+  Size: 5.8 MB
+  ... processed 25/41 pages (OCR so far: 25)
+  Total OCR'd pages: 41
+  OK Extracted 59,808 characters
+
+[24/35] Processing: ETS 2023 - Test 5
+  File: d:\phat\TOEIC\Support\ETS\TỔNG HỢP ETS\ETS 2023\TEST 5\TEST 5.pdf
+  Size: 5.8 MB
+  ... processed 25/41 pages (OCR so far: 25)
+  Total OCR'd pages: 41
+  OK Extracted 59,880 characters
+
+[25/35] Processing: ETS 2023 - Test 6
+  File: d:\phat\TOEIC\Support\ETS\TỔNG HỢP ETS\ETS 2023\TEST 6\TEST 6.pdf
+  Size: 5.6 MB
+  ... processed 25/41 pages (OCR so far: 25)
+  Total OCR'd pages: 41
+  OK Extracted 56,821 characters
+
+[26/35] Processing: ETS 2023 - Test 7
+  File: d:\phat\TOEIC\Support\ETS\TỔNG HỢP ETS\ETS 2023\TEST 7\TEST 7.pdf
+  Size: 5.7 MB
+  ... processed 25/41 pages (OCR so far: 25)
+  Total OCR'd pages: 41
+  OK Extracted 59,495 characters
+
+[27/35] Processing: ETS 2023 - Test 8
+  File: d:\phat\TOEIC\Support\ETS\TỔNG HỢP ETS\ETS 2023\TEST 8\TEST 8.pdf
+  Size: 5.8 MB
+  ... processed 25/41 pages (OCR so far: 25)
+  Total OCR'd pages: 41
+  OK Extracted 57,743 characters
+
+[28/35] Processing: ETS 2023 - Test 9
+  File: d:\phat\TOEIC\Support\ETS\TỔNG HỢP ETS\ETS 2023\TEST 9\TEST 9.pdf
+  Size: 5.2 MB
+  ... processed 25/39 pages (OCR so far: 25)
+  Total OCR'd pages: 39
+  OK Extracted 60,586 characters
+
+[29/35] Processing: ETS 2023 - Test 10
+  File: d:\phat\TOEIC\Support\ETS\TỔNG HỢP ETS\ETS 2023\TEST 10\TEST 10.pdf
+  Size: 5.8 MB
+  ... processed 25/41 pages (OCR so far: 25)
+  Total OCR'd pages: 41
+  OK Extracted 56,484 characters
+
+[30/35] Processing: ETS 2024 - Listening
+  File: d:\phat\TOEIC\Support\ETS\TỔNG HỢP ETS\ETS 2024\ets 2024 LC.pdf
+  Size: 112.3 MB
+  ... processed 25/300 pages (OCR so far: 25)
+  ... processed 50/300 pages (OCR so far: 50)
+  ... processed 75/300 pages (OCR so far: 75)
+  ... processed 100/300 pages (OCR so far: 100)
+  ... processed 125/300 pages (OCR so far: 125)
+  ... processed 150/300 pages (OCR so far: 150)
+  ... processed 175/300 pages (OCR so far: 175)
+  ... processed 200/300 pages (OCR so far: 200)
+  ... processed 225/300 pages (OCR so far: 225)
+  ... processed 250/300 pages (OCR so far: 250)
+  ... processed 275/300 pages (OCR so far: 275)
+  ... processed 300/300 pages (OCR so far: 300)
+  Total OCR'd pages: 300
+  OK Extracted 805,501 characters
+
+[31/35] Processing: ETS 2024 - Reading
+  File: d:\phat\TOEIC\Support\ETS\TỔNG HỢP ETS\ETS 2024\ets 2024 RC.pdf
+  Size: 96.3 MB
+  ... processed 25/332 pages (OCR so far: 25)
+  ... processed 50/332 pages (OCR so far: 50)
+  ... processed 75/332 pages (OCR so far: 75)
+  ... processed 100/332 pages (OCR so far: 100)
+  ... processed 125/332 pages (OCR so far: 125)
+  ... processed 150/332 pages (OCR so far: 150)
+  ... processed 175/332 pages (OCR so far: 175)
+  ... processed 200/332 pages (OCR so far: 200)
+  ... processed 225/332 pages (OCR so far: 225)
+  ... processed 250/332 pages (OCR so far: 250)
+  ... processed 275/332 pages (OCR so far: 275)
+  ... processed 300/332 pages (OCR so far: 300)
+  ... processed 325/332 pages (OCR so far: 325)
+  Total OCR'd pages: 332
+  OK Extracted 460,766 characters
+
+[32/35] Processing: ETS 2026 - Listening
+  File: d:\phat\TOEIC\Support\ETS\TỔNG HỢP ETS\ETS 2026\LISTENING ETS 2026.pdf
+  Size: 209.1 MB
+  ... processed 25/144 pages (OCR so far: 25)
+  ... processed 50/144 pages (OCR so far: 50)
+  ... processed 75/144 pages (OCR so far: 75)
+  ... processed 100/144 pages (OCR so far: 100)
+  ... processed 125/144 pages (OCR so far: 125)
+  Total OCR'd pages: 144
+  OK Extracted 149,766 characters
+
+[33/35] Processing: ETS 2026 - Reading
+  File: d:\phat\TOEIC\Support\ETS\TỔNG HỢP ETS\ETS 2026\READING ETS 2026.pdf
+  Size: 336.9 MB
+  ... processed 25/304 pages (OCR so far: 25)
+  ... processed 50/304 pages (OCR so far: 50)
+  ... processed 75/304 pages (OCR so far: 75)
+  ... processed 100/304 pages (OCR so far: 100)
+  ... processed 125/304 pages (OCR so far: 125)
+  ... processed 150/304 pages (OCR so far: 150)
+  ... processed 175/304 pages (OCR so far: 175)
+  ... processed 200/304 pages (OCR so far: 200)
+  ... processed 225/304 pages (OCR so far: 225)
+  ... processed 250/304 pages (OCR so far: 250)
+  ... processed 275/304 pages (OCR so far: 275)
+  ... processed 300/304 pages (OCR so far: 300)
+  Total OCR'd pages: 304
+  OK Extracted 443,274 characters
+
+[34/35] Processing: ETS 2026 - Transcript
+  File: d:\phat\TOEIC\Support\ETS\TỔNG HỢP ETS\ETS 2026\TRANSCRIPT.pdf
+  Size: 477.7 MB
+  ... processed 25/296 pages (OCR so far: 25)
+  ... processed 50/296 pages (OCR so far: 50)
+  ... processed 75/296 pages (OCR so far: 75)
+  ... processed 100/296 pages (OCR so far: 100)
+  ... processed 125/296 pages (OCR so far: 125)
+  ... processed 150/296 pages (OCR so far: 150)
+  ... processed 175/296 pages (OCR so far: 175)
+  ... processed 200/296 pages (OCR so far: 200)
+  ... processed 225/296 pages (OCR so far: 225)
+  ... processed 250/296 pages (OCR so far: 250)
+  ... processed 275/296 pages (OCR so far: 275)
+  Total OCR'd pages: 296
+  OK Extracted 817,249 characters
+
+[35/35] Processing: ETS 2026 - Key RC
+  File: d:\phat\TOEIC\Support\ETS\TỔNG HỢP ETS\ETS 2026\key rc .pdf
+  Size: 6.0 MB
+  Total OCR'd pages: 4
+  OK Extracted 520 characters
+
+============================================================
+HOAN THANH!
+Output: d:\phat\TOEIC\Support\TOEIC_ALL_CONTENT.md
+Size: 9.0 MB
+============================================================

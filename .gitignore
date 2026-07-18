@@ -1,0 +1,11 @@
+node_modules/
+target/
+dist/
+.env
+*.mp4
+*.zip
+*.pt
+*.onnx
+ETS/
+book/
+extract_log.txt
